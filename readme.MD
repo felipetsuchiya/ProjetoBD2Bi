@@ -1,1 +1,0 @@
-Projeto de banco de dados no MySQL da matéria de Banco de Dados da Universidade Positivo inicio dia: 27/10/2020.
